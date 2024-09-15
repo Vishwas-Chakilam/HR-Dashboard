@@ -25,9 +25,6 @@ To analyze HR data and present key metrics through a dynamic dashboard, aiding H
 1. Clean the HR dataset using the provided MySQL scripts.
 2. Import cleaned data into Power BI.
 
-## **Files**
-- **/sql-scripts**: SQL scripts for data cleaning.
-
 ## **Future Enhancements**
 - Add predictive analytics for attrition and hiring trends.
 - Incorporate employee satisfaction data for deeper insights.
