@@ -1,4 +1,5 @@
 # **HR Dashboard 2024**
+![HR-Dashboard](https://github.com/Vishwas-Chakilam/HR-Dashboard/blob/main/Screenshot%202024-09-15%20215019.png)
 
 ## **Overview**
 
